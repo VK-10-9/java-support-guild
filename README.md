@@ -201,6 +201,15 @@ Feel free to contribute to this repository by:
 
 ---
 
+## 👨‍💻 Author
+
+**Vishwanath**
+- 📧 Contact: [Your Email]
+- 🎓 III Semester - Computer Science
+- 📅 Created: October 2025
+
+---
+
 **Happy Learning! 🚀**
 
 > Remember: Programming is not about memorizing syntax, it's about problem-solving and logical thinking!
