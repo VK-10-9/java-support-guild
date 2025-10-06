@@ -204,7 +204,7 @@ Feel free to contribute to this repository by:
 ## 👨‍💻 Author
 
 **Vishwanath**
-- 📧 Contact: [Your Email]
+- 📧 Contact: vishwanathkoliwad@gmail.com
 - 🎓 III Semester - Computer Science
 - 📅 Created: October 2025
 
